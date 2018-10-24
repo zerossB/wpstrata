@@ -11,3 +11,5 @@
         <?php the_content(); ?>
     </div>
 </article>
+
+<?php comments_template(); ?>

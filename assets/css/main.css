@@ -3183,3 +3183,15 @@ body.is-touch .poptrox-popup .closer {
         padding-left: 0;
     }
 }
+
+.comment-list, .comment-respond, .disqus_thread{
+    width: 100%;
+    list-style: none;
+}
+
+.comment-list .comment{
+    margin-top: 3px;
+    padding: 1em;
+    border: 1px solid #78787877;
+    border-radius: 3px;
+}
